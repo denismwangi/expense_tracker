@@ -8,3 +8,5 @@ go to the browser and type  http://localhost/expense_tracker/
 
 register 
 after registration you will be redirected to dashboard
+
+stay tuned!
